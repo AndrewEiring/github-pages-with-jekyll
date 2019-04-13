@@ -1,15 +1,16 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+title: Andrew Eiring
+Tech Support Pro | Operations Manager | Gastronomy Disciple
+author: Andrew Eiring
+email: andreweiring@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  I'm a world traveler, technology geek, and I help companies provide world class customer support. 
+  I like to use data to solve peoples problems and make enterprise partnerships profitable. 
+  
+
 
 # social links
-twitter_username: your-twitter-handle
-github_username:  your-github-handle
+github_username:  AndrewEiring
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 
-theme: jekyll-theme-cayman
+theme: minima
